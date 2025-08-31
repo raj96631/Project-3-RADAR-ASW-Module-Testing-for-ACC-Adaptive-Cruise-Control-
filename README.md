@@ -1,6 +1,6 @@
 # Project 3: RADAR ASW Module Testing for Adaptive Cruise Control (ACC)
 
-## Description
+## Project Overview
 This project focuses on **RADAR ASW (Application Software) module testing** for **Adaptive Cruise Control (ACC)**, specifically for the **Medium Range Radar (MRR)** system.  
 The objective was to validate and enhance radar-based ACC functionalities, ensuring effective communication, diagnostics, and fault management for real-time vehicle operations.
 
@@ -44,8 +44,9 @@ RADAR_ASW_ACC_Testing/
 └── screenshots/             # Execution results/screenshots
     └── sample_execution.png
 
+---
 
-▶️ How to Run / Test the Project
+## How to Run / Test the Project
 
 Open requirements from /documents/ACC_requirements.xlsx.
 Review test cases in /testcases_and_execution/ACC_test_cases_with_results.xlsx.
@@ -53,11 +54,15 @@ Execute automation scripts in /scripts/ depending on your toolchain:
 example_capl_script.can → Load into CANoe environment.
 Store outputs and screenshots in /screenshots.
 
+---
 
+## Example Test Case Format
 
 | Test Case ID | Requirement ID | Pre-Condition         | Test Steps               | Expected Result         | Status |
 | ------------ | -------------- | --------------------- | ------------------------ | ----------------------- | ------ |
 | TC\_ACC\_001 | ACC\_REQ\_001  | Vehicle in drive mode | Enable ACC and set speed | ACC maintains set speed | Pass   |
+
+---
 
 📜 License
 
