@@ -1,0 +1,47 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.env
+.venv
+venv/
+env/
+*.log
+
+# MATLAB
+*.asv
+*.mex*
+*.fig
+*.mat
+*.slxc
+
+# Documents (temporary files)
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / Dist
+dist/
+build/
+*.egg
+.eggs/
+
+# Others
+*.bak
+*.orig
