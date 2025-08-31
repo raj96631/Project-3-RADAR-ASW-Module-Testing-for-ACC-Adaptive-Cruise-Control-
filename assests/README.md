@@ -1,4 +1,4 @@
-# 🎨 Assets
+#  Assets
 
 This folder contains supporting assets such as:
 

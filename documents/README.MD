@@ -1,4 +1,4 @@
-# 📄 Documents
+#  Documents
 
 This folder contains all the **project-related documents**, including:
 

@@ -1,4 +1,4 @@
-# 🧪 Test Cases & Execution
+# Test Cases & Execution
 
 This folder contains:
 

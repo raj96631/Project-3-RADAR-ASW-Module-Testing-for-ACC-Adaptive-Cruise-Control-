@@ -1,4 +1,4 @@
-# ⚙️ Scripts
+#  Scripts
 
 This folder contains all **automation and simulation scripts**:
 
