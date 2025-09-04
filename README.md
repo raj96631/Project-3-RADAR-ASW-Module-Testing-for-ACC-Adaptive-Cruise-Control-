@@ -26,7 +26,6 @@ The objective was to validate and enhance radar-based ACC functionalities, ensur
 RADAR_ASW_ACC_Testing/
 │── README.md                # Project Overview
 │── LICENSE                  # License file
-│── .gitignore               # Git ignore rules
 │
 ├── documents/               # Requirements
 │   ├── ACC_requirements.xlsx
